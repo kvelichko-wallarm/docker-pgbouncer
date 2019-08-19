@@ -1,13 +1,8 @@
 Pgbouncer
 =========
 
-PostgreSQL connection pooler.
-
-Tags:
-=====
-
-  + latest: same as 1.9.0 
-  + 1.9.0: Alpine with pgbouncer 1.9.0
+Pgbouncer - PostgreSQL connection pooler.
+The Image contain pgbouncer version 1.9.0
 
 Usage:
 ======
